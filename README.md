@@ -1,5 +1,5 @@
 ### BTS INFO
-#INSTALL
+# INSTALL
 ```sh
 $ git clone https://github.com/Desze/BTS
 $ cd BTS
